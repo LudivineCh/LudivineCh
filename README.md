@@ -5,7 +5,6 @@
      I am a teacher (Math, Science, Coding and English) in a private school,
      so I got time to work on coding projects.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Wed development project.
 - 📫 How to reach me : ludivine.chabaud.fr@gmail.com
 <!---
 LudivineCh/LudivineCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
