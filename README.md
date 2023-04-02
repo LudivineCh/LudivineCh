@@ -2,8 +2,8 @@
 - 👀 I’m interested in teaching, coding (Python, SQL, HTML/CSS, JS), science and freediving.
      I got good analytical skills such as critical thinking, data analysis and research.
      I actually graduated a PhD in Science (2016).
-     I am a teacher (Math, Science, Coding and English) in a private school,
-     so I got time to work on coding projects.
+     I am a teacher (Math, Science, Coding and English) in a private school. 
+     I take the time to work on coding projects during my free time.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me : ludivine.chabaud.fr@gmail.com
 <!---
